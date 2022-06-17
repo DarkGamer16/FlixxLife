@@ -28,14 +28,13 @@ body{
 	height: 350px;
 
 	animation: fundo 60s infinite linear;
-	background-image: url(/imagens/filmes_capa/esse.jpg);
+	background-image: url(../imagens/filmes_capa/esse.jpg);
 	display: block;
 }
 
 @keyframes fundo {
 	to {
 		background-position: 2000px;
-
 	}
 }
 
